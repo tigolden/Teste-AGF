@@ -1,5 +1,5 @@
 <html>
-<?php $nome = 'PEDRO'?>
+<?php $nome = 'Leonardo'?>
 
 	Bem Vindo <?=$nome?>
 
